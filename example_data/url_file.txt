@@ -1,0 +1,2 @@
+https://storage.googleapis.com/blueyonder_assignment/python-pseudocode.jpg
+https://storage.googleapis.com/blueyonder_assignment/while-loop-animation-python.gif
